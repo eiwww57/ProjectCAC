@@ -1,0 +1,53 @@
+body{
+    
+    
+}
+header{
+    background-image: url('../img/pattern.jpeg');
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:khaki;
+    height: 115px;
+    width:100%;
+}
+h1{
+   
+    text-align: center;
+}
+h2{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:white;
+}
+#brushes{
+    background-color: mediumspringgreen;
+    height: 35px;
+    
+}
+#frames{
+   
+    background-color: lightcoral;
+}
+#paint{
+    background-color: skyblue;
+}
+figcaption{
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    position: relative;
+    top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+p strong {
+    color:blue;
+}
